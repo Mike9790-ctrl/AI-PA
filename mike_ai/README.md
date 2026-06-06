@@ -279,5 +279,5 @@ LLM_CONFIG = {
 
 ---
 
-**Built with ❤️ for Mike Johnson**
+**Built with ❤️ for Mukhammadamin Umurzakov**
 *Your AI Partner for Productivity, Business & Trading*
